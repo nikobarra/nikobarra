@@ -3,8 +3,7 @@
 Apasionado del desarrollo full‑stack con orientación educativa. Actualmente curso la Tecnicatura Superior en Ciencia de Datos e Inteligencia Artificial. Cuento con base sólida en Python, Django y JavaScript, experiencia enseñando programación y desarrollando proyectos web. Busco mi primera oportunidad laboral en IT para aprender, crecer y aportar en entornos de innovación.
 
 - **Ubicación**: Mar del Plata, Buenos Aires
-- **Contacto**: [nicolasbarrapelecano@gmail.com](mailto:nicolasbarrapelecano@gmail.com) · [WhatsApp/Teléfono](tel:+542266440616)
-- **Disponibilidad**: Tiempo completo · Remoto
+- **Contacto**: [nicolasbarrapelecano@gmail.com](mailto:nicolasbarrapelecano@gmail.com)
 
 ## Tecnologías
 
@@ -23,7 +22,7 @@ Soy un entusiasta del desarrollo full‑stack con orientación educativa. Manejo
 
 ## Experiencia en educación y desarrollo
 
-- **Profesor de Python (Freelance) — Zinkgular, España** (Abr 2024 — Actualidad)
+- **Profesor de Python (Freelance) — BeWise, España** (Abr 2024 — Actualidad)
   - Clases prácticas de nivel inicial e intermedio.
   - Enfoque en resolución de problemas y desarrollo de aplicaciones.
 
@@ -57,8 +56,8 @@ Soy un entusiasta del desarrollo full‑stack con orientación educativa. Manejo
   
   Capturas:
   
-  ![niko3d - Home](assets/capturas/niko3d-home.svg)
-  ![niko3d - Carrito](assets/capturas/niko3d-cart.svg)
+  ![niko3d - Home](assets/capturas/niko3d-home.png)
+  ![niko3d - Carrito](assets/capturas/niko3d-cart.png)
 
 - **Resume**  
   Repositorio de mi CV/Resume para facilitar descarga y consulta en línea.  
@@ -66,7 +65,7 @@ Soy un entusiasta del desarrollo full‑stack con orientación educativa. Manejo
   
   Capturas:
   
-  ![Resume - Desktop](assets/capturas/resume-desktop.svg)
+  ![Resume - Desktop](assets/capturas/resume-desktop.png)
 
 - **Melisa Santoianni — Coaching**  
   Sitio estático optimizado para Vercel orientado a bienestar y coaching personal.  
@@ -75,10 +74,8 @@ Soy un entusiasta del desarrollo full‑stack con orientación educativa. Manejo
   
   Capturas:
   
-  ![Melisa - Home](assets/capturas/melisa-home.svg)
-  ![Melisa - Mobile](assets/capturas/melisa-mobile.svg)
-
-> Nota: Coloca las imágenes en `assets/capturas/` dentro de este repositorio para que se muestren correctamente en tu perfil.
+  ![Melisa - Home](assets/capturas/melisa-home.png)
+  ![Melisa - Mobile](assets/capturas/melisa-mobile.png)
 
 ## Estadísticas de GitHub
 
@@ -99,9 +96,4 @@ Soy un entusiasta del desarrollo full‑stack con orientación educativa. Manejo
 
 - 📧 Correo: [nicolasbarrapelecano@gmail.com](mailto:nicolasbarrapelecano@gmail.com)
 - 📱 Teléfono/WhatsApp: [+54 2266 440616](tel:+542266440616)
-
-—
-
-Este README está pensado para el repositorio de perfil [`nikobarra/nikobarra`](https://github.com/nikobarra/nikobarra). Al publicarlo allí, se mostrará automáticamente en tu perfil de GitHub.
-
 
