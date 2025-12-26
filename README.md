@@ -1,11 +1,11 @@
-### ¡Hola! Soy Nicolás Matías Barra Pelecano
+### Hi there! I'm Nicolás Matías Barra Pelecano
 
-Apasionado del desarrollo full‑stack con orientación educativa. Actualmente curso la Tecnicatura Superior en Ciencia de Datos e Inteligencia Artificial. Cuento con base sólida en Python, Django y JavaScript, experiencia enseñando programación y desarrollando proyectos web. Busco mi primera oportunidad laboral en IT para aprender, crecer y aportar en entornos de innovación.
+Passionate full‑stack developer with a knack for teaching. Currently pursuing a Technical Degree in Data Science and Artificial Intelligence. I'm well-versed in Python, Django, and JavaScript, with hands-on experience teaching programming and building web projects. Looking to break into the tech industry where I can learn, grow, and make a meaningful impact in innovative environments.
 
-- **Ubicación**: Mar del Plata, Buenos Aires
-- **Contacto**: [nicolasbarrapelecano@gmail.com](mailto:nicolasbarrapelecano@gmail.com)
+- **Location**: Mar del Plata, Buenos Aires
+- **Contact**: [nicolasbarrapelecano@gmail.com](mailto:nicolasbarrapelecano@gmail.com)
 
-## Tecnologías
+## Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
@@ -16,84 +16,81 @@ Apasionado del desarrollo full‑stack con orientación educativa. Actualmente c
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 
-## Perfil profesional
+## Professional Profile
 
-Soy un entusiasta del desarrollo full‑stack con orientación educativa. Manejo Python, Django y JavaScript; disfruto de transformar ideas en productos web y de acompañar a otros en su proceso de aprendizaje. Me motiva la mejora continua, el trabajo en equipo y el diseño de soluciones simples y mantenibles.
+I'm a full‑stack development enthusiast with a passion for education. I work with Python, Django, and JavaScript; I love turning ideas into real-world web products and helping others along their learning journey. What drives me is continuous improvement, collaborative work, and crafting clean, maintainable solutions.
 
-## Experiencia en educación y desarrollo
+## Education & Development Experience
 
-- **Profesor de Python (Freelance) — BeWise, España** (Abr 2024 — Actualidad)
-  - Clases prácticas de nivel inicial e intermedio.
-  - Enfoque en resolución de problemas y desarrollo de aplicaciones.
+- **Python Instructor (Freelance) — BeWise, Spain** (Apr 2024 — Present)
+  - Hands-on classes for beginners and intermediate learners.
+  - Focused on problem-solving and application development.
 
-- **Tutor de Desarrollo — Coderhouse** (Ene 2022 — Sep 2024)
-  - Acompañamiento a estudiantes en Python, Django y JavaScript.
-  - Corrección de ejercicios y guía en proyectos web integrales.
+- **Development Tutor — Coderhouse** (Jan 2022 — Sep 2024)
+  - Mentored students in Python, Django, and JavaScript.
+  - Reviewed assignments and guided them through full-stack web projects.
 
-- **Facilitador de Aprendizaje — Junior Achievement Argentina** (May 2022 — Jul 2022)
-  - Capacitación docente a nivel nacional en desarrollo web.
-  - Implementación de programas educativos orientados a programación.
+- **Learning Facilitator — Junior Achievement Argentina** (May 2022 — Jul 2022)
+  - Delivered nationwide teacher training in web development.
+  - Rolled out educational programs focused on programming.
 
-## Educación
+## Education
 
-- **Tecnicatura Superior en Ciencia de Datos e Inteligencia Artificial** — ISFT N.º 204, Mar del Plata  
-  Desde marzo 2025 (Primer año en curso). Todas las materias cursadas hasta el momento han sido promocionadas.
+- **Technical Degree in Data Science and Artificial Intelligence** — ISFT N.º 204, Mar del Plata  
+  Started March 2025 (First year in progress). All coursework completed so far has been passed with top marks.
 
-## Certificaciones relevantes
+## Relevant Certifications
 
 - Scrum Foundation — CertiProf, 2023
 - Python Essentials 1 — Cisco Networking Academy, 2023
-- Diplomatura en Python Nivel 1 — UTN FRBA, 2023
-- Desarrollo Web Full‑Stack con Python y Django — Coderhouse, 2021
-- Gobernanza de Datos e Inteligencia Artificial — UBA, 2023
+- Python Level 1 Diploma — UTN FRBA, 2023
+- Full‑Stack Web Development with Python and Django — Coderhouse, 2021
+- Data Governance and Artificial Intelligence — UBA, 2023
 
-## Proyectos destacados
+## Featured Projects
 
-- **3D Print Store — Catálogo Online**  
-  Catálogo moderno y responsive con carrito (Context API) e integración a WhatsApp para pedidos.  
+- **3D Print Store — Online Catalog**  
+  Modern, responsive catalog featuring a shopping cart (Context API) and WhatsApp integration for orders.  
   Stack: Next.js 14, TypeScript, Tailwind CSS.  
-  Código: https://github.com/nikobarra/niko3d · Demo: https://niko3d.vercel.app
+  Code: https://github.com/nikobarra/niko3d · Live: https://niko3d.vercel.app
   
-  Capturas:
+  Screenshots:
   
   ![niko3d - Home](assets/capturas/niko3d-home.png)
   ![niko3d - Carrito](assets/capturas/niko3d-cart.png)
 
 - **Resume**  
-  Repositorio de mi CV/Resume para facilitar descarga y consulta en línea.  
-  Código: https://github.com/nikobarra/resume URL: https://nicolasbarra.dev/
+  Personal CV/Resume repository for easy download and online viewing.  
+  Code: https://github.com/nikobarra/resume · Live: https://nicolasbarra.dev/
   
-  Capturas:
+  Screenshots:
   
   ![Resume - Desktop](assets/capturas/resume-desktop.png)
 
 - **Melisa Santoianni — Coaching**  
-  Sitio estático optimizado para Vercel orientado a bienestar y coaching personal.  
+  Static site built for Vercel, focused on wellness and personal coaching.  
   Stack: HTML, CSS, JavaScript.  
-  Código: https://github.com/nikobarra/melisa_santoianni_coaching · URL: https://www.melisantoianni.com/
+  Code: https://github.com/nikobarra/melisa_santoianni_coaching · Live: https://www.melisantoianni.com/
   
-  Capturas:
+  Screenshots:
   
   ![Melisa - Home](assets/capturas/melisa-home.png)
   ![Melisa - Mobile](assets/capturas/melisa-mobile.png)
 
-## Estadísticas de GitHub
+## GitHub Stats
 
-<div align="left">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikobarra&show_icons=true&theme=transparent)
 
-<img src="https://github-readme-stats.vercel.app/api?username=nikobarra&show_icons=true&theme=transparent" alt="GitHub Stats" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nikobarra&layout=compact&theme=transparent" alt="Top Langs" height="160" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=nikobarra&layout=compact&theme=transparent)
 
-</div>
+## What I Bring to the Table
 
-## Cómo puedo aportar a tu equipo
+- Growth mindset with a keen eye for code quality.
+- Clear communication skills backed by teaching and mentoring experience.
+- Results-driven approach and proven track record in remote work.
 
-- Mentalidad de aprendizaje continuo y foco en calidad de código.
-- Comunicación clara y experiencia docente/tutoría.
-- Orientación a resultados y trabajo remoto efectivo.
+## Get in Touch
 
-## Contacto
-
-- 📧 Correo: [nicolasbarrapelecano@gmail.com](mailto:nicolasbarrapelecano@gmail.com)
-- 📱 Teléfono/WhatsApp: [+54 2266 440616](tel:+542266440616)
+- 📧 Email: [nicolasbarrapelecano@gmail.com](mailto:nicolasbarrapelecano@gmail.com)
+- 📱 Phone/WhatsApp: [+54 2266 440616](tel:+542266440616)
 
