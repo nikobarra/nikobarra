@@ -77,11 +77,7 @@ I'm a full‑stack development enthusiast with a passion for education. I work w
   ![Melisa - Home](assets/capturas/melisa-home.png)
   ![Melisa - Mobile](assets/capturas/melisa-mobile.png)
 
-## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikobarra&show_icons=true&theme=transparent)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=nikobarra&layout=compact&theme=transparent)
 
 ## What I Bring to the Table
 
