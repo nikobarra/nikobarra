@@ -68,7 +68,7 @@ Full‑stack developer with real projects in production and 3+ years of technica
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=nikobarra&hide_border=true)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikobarra&layout=compact&hide_border=true&langs_count=8)](https://github.com/nikobarra)
+
 
 ## Professional Profile
 
