@@ -66,9 +66,9 @@ Full‑stack developer with real projects in production and 3+ years of technica
 
 ## GitHub Stats
 
-![Nicolás's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikobarra&show_icons=true&hide_border=true&count_private=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=nikobarra&hide_border=true)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikobarra&layout=compact&hide_border=true&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikobarra&layout=compact&hide_border=true&langs_count=8)](https://github.com/nikobarra)
 
 ## Professional Profile
 
